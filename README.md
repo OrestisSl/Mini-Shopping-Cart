@@ -1,4 +1,4 @@
-#Shopping Cart Exercise
+Shopping Cart Exercise
 This exercise demonstrates the implementation of a shopping cart feature using React. It consists of two main components: ProductList and Cart.
 
 ProductList Component
