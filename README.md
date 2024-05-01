@@ -1,4 +1,4 @@
-# Mini Shopping Cart Project
+# Shopping Cart Mini Project
 
 This mini project demonstrates the implementation of a shopping cart feature using React. It consists of two main components: `ProductList` and `Cart`.
 
@@ -15,6 +15,7 @@ The `Cart` component displays the user's shopping cart. It shows the total price
 - **React:** Used for building the user interface and managing state.
 - **Context API:** Used for managing global state and sharing data between components.
 - **JSON data:** Product information is stored in a JSON file and fetched dynamically.
+- **Bootstrap:** Used for responsive design and styling.
 
 ## Concepts Demonstrated
 
