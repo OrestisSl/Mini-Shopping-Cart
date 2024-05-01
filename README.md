@@ -20,6 +20,7 @@ The `Cart` component displays the user's shopping cart. It shows the total price
 
 - **Component composition:** Breaking down the UI into smaller, reusable components.
 - **State management:** Managing the state of the shopping cart and product list using React's state and Context API.
+- **Reducers:** Using reducers to manage complex state transformations, such as adding or removing items from the shopping cart.
 - **Responsive design:** Making the application responsive to different screen sizes using Bootstrap classes.
 - **Event handling:** Handling user interactions such as adding items to the cart and clearing the cart.
 
@@ -29,6 +30,3 @@ The `Cart` component displays the user's shopping cart. It shows the total price
 2. Navigate to the project directory.
 3. Run `npm install` to install dependencies.
 4. Run `npm start` to start the development server.
-5. Open your browser and go to `http://localhost:3000` to view the application.
-
-Feel free to explore the code and modify it as needed for your own projects!
