@@ -1,4 +1,4 @@
-Shopping Cart Exercise
+#Shopping Cart Exercise
 This exercise demonstrates the implementation of a shopping cart feature using React. It consists of two main components: ProductList and Cart.
 
 ProductList Component
@@ -21,4 +21,3 @@ Clone this repository to your local machine.
 Navigate to the project directory.
 Run npm install to install dependencies.
 Run npm start to start the development server.
-Open your browser and go to http://localhost:3000 to view the application.
