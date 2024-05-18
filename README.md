@@ -1,6 +1,6 @@
 # Shopping Cart Mini Project
 
-This mini project demonstrates the implementation of a shopping cart feature using React. It consists of two main components: `ProductList` and `Cart`.
+This mini project showcases the implementation of a shopping cart feature using React. It consists of three main components: `ProductList`, `Cart`, and `ProductCard`.
 
 ## ProductList Component
 
@@ -10,20 +10,27 @@ The `ProductList` component displays a list of products available for purchase. 
 
 The `Cart` component displays the user's shopping cart. It shows the total price of all items in the cart and the total number of items. Users can also clear the cart by clicking the "Clear Cart" button.
 
+## ProductCard Component
+
+The `ProductCard` component represents an individual product card. It displays the product's image, name, description, and price. Users can add the product to their shopping cart by clicking the "Add to Cart" button. If the addition is successful, a toast notification is displayed confirming the action.
+
 ## Technologies Used
 
-- **React:** Used for building the user interface and managing state.
-- **Context API:** Used for managing global state and sharing data between components.
-- **JSON data:** Product information is stored in a JSON file and fetched dynamically.
-- **Bootstrap:** Used for responsive design and styling.
+- React: Utilized for building the user interface and managing state.
+- Context API: Employed for managing global state and sharing data between components.
+- TypeScript: Used to enhance type safety and developer productivity.
+- React Router: Facilitated navigation within the application.
+- JSON data: Product information is stored in a JSON file and fetched dynamically.
+- Bootstrap: Utilized for responsive design and styling.
+- Sonner library: Used for additional functionality and features.
 
 ## Concepts Demonstrated
 
-- **Component composition:** Breaking down the UI into smaller, reusable components.
-- **State management:** Managing the state of the shopping cart and product list using React's state and Context API.
-- **Reducers:** Using reducers to manage complex state transformations, such as adding or removing items from the shopping cart.
-- **Responsive design:** Making the application responsive to different screen sizes using Bootstrap classes.
-- **Event handling:** Handling user interactions such as adding items to the cart and clearing the cart.
+- **Component Composition:** Breaking down the UI into smaller, reusable components for better maintainability and scalability.
+- **State Management:** Effectively managing the state of the shopping cart and product list using React's state and Context API.
+- **Reducers:** Employing reducers to manage complex state transformations, such as adding or removing items from the shopping cart.
+- **Responsive Design:** Ensuring the application adapts seamlessly to different screen sizes using Bootstrap classes.
+- **Event Handling:** Skillfully managing user interactions such as adding items to the cart and clearing the cart.
 
 ## How to Run
 
